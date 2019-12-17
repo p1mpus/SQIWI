@@ -1,8 +1,6 @@
 from SimpleQIWI import *
 import time, os
 
-token1 = "8ffcd1d00b270bdcf8b00fcbd67a9d4f"
-phone1 = "+79043370635"
 phone = "-"
 
 os.system('clear')
