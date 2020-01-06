@@ -5,7 +5,7 @@ phone = "-"
 
 os.system('clear')
 print("<//LYNEX TEAM//>")
-print("[SQIWI / coded by p1mpus]")
+print("[SQIWI / coded by p1mpus]\n")
 
 token = input("Тoken QIWI: ")
 api = QApi(token=token, phone=phone)
